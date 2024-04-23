@@ -1,0 +1,4 @@
+package classuse
+
+class Person {
+}
